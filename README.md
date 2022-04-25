@@ -9,14 +9,16 @@
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport!
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact" /> 
+
 
 </details>
 
 [website]: https://davidj001.github.io
 [podcast]: http://spotify.com
 [twitter]: https://twitter.com/
-[youtube]: https://youtube.com/joeldavid
+[youtube]: https://youtube.com/joel david
 [instagram]: https://instagram.com/lord_davidj
 [linkedin]: https://linkedin.com/in/david-olago-973200125/
