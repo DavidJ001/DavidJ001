@@ -32,7 +32,7 @@
 [website]: https://davidj001.github.io
 [podcast]: http://spotify.com
 [twitter]: https://twitter.com/
-[youtube]: https://youtube.com/joel%david
+[youtube]: https://youtube.com/channel/UCmfhg0x9C5kFCZG7tCi473A
 [instagram]: https://instagram.com/lord_davidj
 [linkedin]: https://linkedin.com/in/david-olago-973200125/
 
