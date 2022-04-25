@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, Graphics Designer, and a Video Editor!!
 
-- 🔭 Check out my Podcast and [Discover Your Power!][Podcast]!
+- 🔭 Check out my Podcast and [Discover Your Power!][Podcast]
 - 🌱 I’m currently learning programming a fresh 🤣
 - 👯 I’m looking to collaborate with other learners and creatives
 - 🥅 2022 Goals: Learn more Python, more about Data Science and Cloud Computing
