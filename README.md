@@ -1,6 +1,6 @@
 # Hi there, I'm David Joel - aka [King David][youtube] 👋 
 
-## I'm a Software Engineer, Graphics Designer, and a Video Editor!!
+## I'm a Software Engineer with experience in Graphic Design and Video Editing.
 
 - 🔭 Check out my Podcast and [Discover Your Power!][Podcast]
 - 🌱 I’m currently learning programming a fresh 🤣
