@@ -8,13 +8,6 @@
 - 🥅 2022 Goals: Learn more Python, more about Data Science and Cloud Computing
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport!
 
-### Stats
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact" /> 
-
-<br />
-<br />
 
 ### Connect with me:
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
@@ -25,6 +18,15 @@
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
+### Stats
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact" /> 
+
+<br />
+<br />
+
 
 
 [website]: https://davidj001.github.io
