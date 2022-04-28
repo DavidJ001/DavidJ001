@@ -1,6 +1,9 @@
 # Hi there, I'm David Joel - aka [King David][youtube] 👋 
 
 ## I'm a Software Engineer with experience in Graphic Design and Video Editing.
+<p align="center">
+  <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel;A%20Passionate%20Software%20Engineer;from%20Kenya;Readt%20to%20learn%20new%20things!%2e&font=Fira%20Code&center=true&width=460&height=50&color=FF6347&vCenter=true&size=22"></a>
+    </p>
 
 - 🔭 Check out my Podcast and [Discover Your Power!][Podcast]
 - 🌱 I’m currently learning programming a fresh 🤣
@@ -19,7 +22,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/lord_davidj#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lord_davidj#gh-dark-mode-only)
 
-  <div id="badges" align="center">
+<!--   <div id="badges" align="center">
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/david-olago-973200125/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,7 +34,7 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
       
 </div>
-</div>
+</div> -->
 
 ### Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
