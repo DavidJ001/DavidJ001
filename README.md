@@ -1,6 +1,6 @@
-# Hi there, I'm David Joel - aka [King David][youtube] 👋 
+# Hi there, my fellow <Devs/> 👋 
 
-## I'm a Software Engineer with experience in Graphic Design and Video Editing.
+## I'm also experienced in Graphic Design and Video Editing.
 <p align="center">
   <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel;A%20Passionate%20Software%20Engineer;from%20Kenya;Ready%20to%20learn%20new%20things!%2e&font=Fira%20Code&center=true&width=460&height=50&color=0000ff&vCenter=true&size=22"></a>
     </p>
@@ -43,6 +43,11 @@
 
 <br />
 <br />
+ <h2 align="center">📈 Activity</h2>
+<a href="https://github.com/DavidJ001/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DavidJ001&theme=material-palenight" /> </a>
+<br />
+
+## Check out my channel [King David][youtube]
 
 
 
