@@ -19,6 +19,20 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/lord_davidj#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lord_davidj#gh-dark-mode-only)
 
+  <div id="badges" align="center">
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/david-olago-973200125/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Significant_Joe">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="https://www.facebook.com/david.megabillion?_rdc=1&_rdr">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+      
+</div>
+</div>
+
 ### Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact" /> 
