@@ -1,14 +1,15 @@
 <h1 align="center">
-Hi there, my fellow < Devs/ >!  
+Hellooo! my fellow < Devs/ >!  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-
-## I'm also experienced in Graphic Design and Video Editing.
+</h1>
+<h1 align="center">
+ I'm also experienced in Graphic Design and Video Editing.
+</h1>
 <p align="center">
   <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel;A%20Passionate%20Software%20Engineer;from%20Kenya;Ready%20to%20learn%20new%20things!%2e&font=Fira%20Code&center=true&width=460&height=50&color=0000ff&vCenter=true&size=22"></a>
     </p>
 
-- 🔭 Check out my Podcast and [Discover Your Power!][Podcast]
+<!-- - 🔭 Check out my Podcast and [Discover Your Power!][Podcast] -->
 - 🌱 I’m currently learning programming a fresh 🤣
 - 👯 I’m looking to collaborate with other learners and creatives
 - 🥅 2022 Goals: Learn more Python, more about Data Science and Cloud Computing
@@ -50,14 +51,14 @@ Hi there, my fellow < Devs/ >!
 <a href="https://github.com/DavidJ001/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DavidJ001&theme=material-palenight" /> </a>
 <br />
 
-## Check out my channel [King David][youtube]
+<!-- ## Check out my channel [King David][youtube] -->
 
 
 
 [website]: https://davidj001.github.io
 [podcast]: http://spotify.com
 [twitter]: https://twitter.com/
-[youtube]: https://youtube.com/channel/UCmfhg0x9C5kFCZG7tCi473A
+<!-- [youtube]: https://youtube.com/channel/UCmfhg0x9C5kFCZG7tCi473A -->
 [instagram]: https://instagram.com/lord_davidj
 [linkedin]: https://linkedin.com/in/david-olago-973200125/
 
