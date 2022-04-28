@@ -6,7 +6,7 @@ Hellooo! my fellow < Devs/ >!
  I'm also experienced in Graphic Design and Video Editing.
 </h1>
 <p align="center">
-  <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel;A%20Passionate%20Software%20Engineer;from%20Kenya;Ready%20to%20learn%20new%20things!%2e&font=Fira%20Code&center=true&width=460&height=50&color=0000ff&vCenter=true&size=22"></a>
+  <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel.;A%20Passionate%20Software%20Engineer;from%20Nairobi,%20Kenya.;Ready%20to%20learn%20new%20things!%2e&font=Fira%20Code&center=true&width=460&height=50&color=990099&vCenter=true&size=22"></a>
     </p>
 
 <!-- - 🔭 Check out my Podcast and [Discover Your Power!][Podcast] -->
@@ -16,7 +16,8 @@ Hellooo! my fellow < Devs/ >!
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport!
 
 
- ###Connect with me: 
+ ### Connect with me:
+ 
 [![website](./img/twitter-light.svg)](https://twitter.com/Significant_Joe#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Significant_Joe#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -41,15 +42,25 @@ Hellooo! my fellow < Devs/ >!
       
 </div>
 </div> -->
-<h3 align="center">
+<h2 align="center">
  Stats
- </h3>
+ </h2>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact" /> 
 
 
 <br />
 <br />
+ 
+ ### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+ 
+ 
+ 
  <h2 align="center">📈 Activity</h2>
 <a href="https://github.com/DavidJ001/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DavidJ001&theme=material-palenight" /> </a>
 <br />
