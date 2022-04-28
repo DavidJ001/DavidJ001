@@ -6,7 +6,7 @@ Hellooo! my fellow < Devs/ >!
  I'm also experienced in Graphic Design and Video Editing.
 </h1>
 <p align="center">
-  <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel.;A%20Passionate%20Software%20Engineer;from%20Nairobi,%20Kenya.;Ready%20to%20learn%20new%20things!%2e&font=Fira%20Code&center=true&width=460&height=50&color=990099&vCenter=true&size=22"></a>
+  <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel.;A%20Passionate%20Software%20Engineer;from%20Nairobi,%20Kenya.;Ready%20to%20learn%20new%20things%2e&font=Fira%20Code&center=true&width=460&height=50&color=990099&vCenter=true&size=22"></a>
     </p>
 
 <!-- - 🔭 Check out my Podcast and [Discover Your Power!][Podcast] -->
