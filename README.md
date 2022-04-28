@@ -15,8 +15,8 @@ Hellooo! my fellow < Devs/ >!
 - 🥅 2022 Goals: Learn more Python, more about Data Science and Cloud Computing
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport!
 
-<h2 align="center">
- Connect with me: 
+
+ ###Connect with me: 
 [![website](./img/twitter-light.svg)](https://twitter.com/Significant_Joe#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Significant_Joe#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -26,7 +26,7 @@ Hellooo! my fellow < Devs/ >!
 [![website](./img/instagram-light.svg)](https://instagram.com/lord_davidj#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lord_davidj#gh-dark-mode-only)
  
- </h2>
+
 
 <!--   <div id="badges" align="center">
   <div id="badges" align="center">
