@@ -48,7 +48,7 @@ Hellooo! my fellow < Devs/ >!
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact" /> 
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidJ001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidJ001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  -->
 
 
 <br />
