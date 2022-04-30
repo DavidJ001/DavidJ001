@@ -107,8 +107,9 @@ const joe = {
 <br /> -->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&cover_image=true&theme=novatorem&bar_color=4e51b1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&redirect=true) -->
 
-### Show some ❤️ by starring some of the repositories!
-
+<h3 align="center">
+Show some ❤️ by starring some of the repositories!
+</h3>
 </div>
 <!--  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <!-- ## Check out my channel [King David][youtube] --> 
