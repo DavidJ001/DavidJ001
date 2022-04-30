@@ -105,7 +105,7 @@ const joe = {
 <!--  <h2 align="center">📈 Activity</h2>
 <a href="https://github.com/DavidJ001/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DavidJ001&theme=material-palenight" /> </a>
 <br /> -->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&cover_image=true&theme=novatorem&bar_color=4e51b1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&cover_image=true&theme=novatorem&bar_color=4e51b1&bar_color_cover=false)](https://github.com/olagodavid/spotify-github-profile)
 
 ### Show some ❤️ by starring some of the repositories!
 
