@@ -34,8 +34,8 @@ Hellooo! my fellow < Devs/ >!
 ```javascript
 const joe = {
   gender: "male",
-  code|tools: [Javascript, HTML, CSS, C, Python, React, Git, SQL, Shell, Linux, RHEL, Oracle-DBA, Terminal],
-  skills: ["photoshop", "premierPro", "afterEffects"],
+  code|tools: [JavaScript, HTML, CSS, C, Python, React, Git, SQL, Shell, Linux, RHEL, Oracle-DBA, Terminal],
+  skills: ["Adobe Photoshop", " Adobe PremierPro", "Adobe AfterEffects"],
   experience: {
                         organization: "New_Life_Health_Opinion",
                         field: "Medical_Tourism",
