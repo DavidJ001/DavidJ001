@@ -11,9 +11,9 @@ Hellooo! My fellow < Devs/ >!
     </p>
 
 <!-- - 🔭 Check out my Podcast and [Discover Your Power!][Podcast] -->
-- 🌱 I’m currently learning how to code a fresh 🤣
+- 🌱 I’m currently learning new skills as I refresh my programming abilities 🤣
 - 👯 I’m looking to collaborate with other learners and creatives
-- 🥅 2022 Goals: Learn more Python, more about Data Science and Cloud Computing
+- 🥅 2022 Goals: Learn more Python, Machine Learning, more about Data Science and Cloud Computing
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport!
 
  
