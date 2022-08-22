@@ -123,5 +123,8 @@ Show some ❤️ by starring some of the repositories!
 [instagram]: https://instagram.com/lord_davidj
 [linkedin]: https://linkedin.com/in/david-olago-973200125/
 
+<p align="right" > Created with 🖤 by <a href="https://github.com/DavidJ001">DavidJ001</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=DavidJ001&label=Profile%20views&color=0e75b6&style=flat" alt="DavidJ001" /> </p>
+
 
 
