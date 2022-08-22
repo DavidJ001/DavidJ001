@@ -36,7 +36,7 @@ Hellooo! My fellow < Devs/ >!
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit more about me... 
 ```javascript
-const joe = {
+const KingDavid = {
   gender: "male",
   code: [JavaScript, HTML, CSS, C, Python, Git, SQL, Shell, Linux, RHEL, Oracle-DBA, Terminal],
     letsTalkAbout: ["Web Dev", Tech, "Machine learning", Software Development, "Cybersec", Graphic Design, "Linux"],
