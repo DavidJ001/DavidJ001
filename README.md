@@ -14,7 +14,10 @@ Hellooo! My fellow < Devs/ >!
 - 🌱 I’m currently learning new skills as I refresh my programming abilities
 - 👯 I’m looking to collaborate with other learners and creatives
 - 🥅 2022 Goals: Learn more Python, Machine Learning, more about Data Science and Cloud Computing
+- 👨🏻‍💻 I repair both software and hardware PC problems
+- 📫 I'm also on [LinkedIn](https://www.linkedin.com/in/david-olago-973200125/)
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport!
+
 
  
 
