@@ -30,7 +30,7 @@ Hellooo! My fellow < Devs/ >!
 [![website](./img/instagram-light.svg)](https://instagram.com/lord_davidj#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lord_davidj#gh-dark-mode-only)
  
- ### A little more about me...  
+ ### A little bit more about me...  
 ```javascript
 const joe = {
   gender: "male",
