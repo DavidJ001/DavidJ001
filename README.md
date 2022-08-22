@@ -4,14 +4,14 @@ Hellooo! My fellow < Devs/ >!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h1 align="center">
- I ❤️ coding!
+ I ❤️ coding!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 <p align="center">
   <a href="https://github.com/DavidJ001/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20David%20Joel.;A%20Passionate%20Software%20Engineer;from%20Nairobi,%20Kenya.;Ready%20to%20learn%20new%20things%2e&font=Matrix%20Code&center=true&width=460&height=50&color=990099&vCenter=true&size=22"></a>
     </p>
 
 <!-- - 🔭 Check out my Podcast and [Discover Your Power!][Podcast] -->
-- 🌱 I’m currently learning new skills as I refresh my programming abilities 🤣
+- 🌱 I’m currently learning new skills as I refresh my programming abilities
 - 👯 I’m looking to collaborate with other learners and creatives
 - 🥅 2022 Goals: Learn more Python, Machine Learning, more about Data Science and Cloud Computing
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport!
@@ -30,18 +30,33 @@ Hellooo! My fellow < Devs/ >!
 [![website](./img/instagram-light.svg)](https://instagram.com/lord_davidj#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/lord_davidj#gh-dark-mode-only)
  
- ### A little bit more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit more about me... 
 ```javascript
 const joe = {
   gender: "male",
-  code|tools: [JavaScript, HTML, CSS, C, Python, React, Git, SQL, Shell, Linux, RHEL, Oracle-DBA, Terminal],
-  skills: ["Adobe Photoshop", " Adobe PremierPro", "Adobe AfterEffects"],
-  experience: {
+  code: [JavaScript, HTML, CSS, C, Python, Git, SQL, Shell, Linux, RHEL, Oracle-DBA, Terminal],
+    letsTalkAbout: ["Web Dev", Tech, "Machine learning", Software Development, "Cybersec", Graphic Design, "Linux"],
+     technologies: {
+        frontEnd: {
+            js: [React, "jQuery", Nodejs],
+            css: ["CSS3", Bootstrap]
+        },
+        backEnd: {
+            python: ["flask"]
+        },
+        VersionControl: [Github]
+    },
+    currentlyLearning: devOps: ["GCP"], [Azure]
+        databases: ["Mongo", MySql, "sqlite", Oracle],
+        ML: ["Tensorflow", Keras, "Sklearn", "open-cv", Matplotlib, "pandas", "Octave"]
+    },
+      skills: ["Adobe Photoshop", "Adobe PremierPro", Adobe AfterEffects],
+      experience: {
                         organization: "New_Life_Health_Opinion",
                         field: "Medical_Tourism",
                         position: "CTO"
                       },
- occupation: "I am a software engineering student at the ALX-Holberton Schools."
+      Education: "Software engineering certification at the ALX-Holberton Schools."
 }
 ```
 
@@ -108,7 +123,7 @@ const joe = {
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&cover_image=true&theme=novatorem&bar_color=4e51b1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&redirect=true) -->
 
 <h3 align="center">
-Show some ❤️ by starring some of the repositories!
+Show some ❤️ by dropping a ⭐ to some of the repositories!
 </h3>
 </div>
 <!--  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
@@ -123,7 +138,7 @@ Show some ❤️ by starring some of the repositories!
 [instagram]: https://instagram.com/lord_davidj
 [linkedin]: https://linkedin.com/in/david-olago-973200125/
 
-<p align="right" > Created with 🖤 by <a href="https://github.com/DavidJ001">DavidJ001</a></p>
+<p align="right" > Made with 🖤 by <a href="https://github.com/DavidJ001">DavidJ001</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=DavidJ001&label=Profile%20views&color=0e75b6&style=flat" alt="DavidJ001" /> </p>
 
 
