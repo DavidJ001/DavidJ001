@@ -39,9 +39,9 @@ Hellooo! My fellow < Devs/ >!
 ```javascript
 const KingDavid = {
   gender: "male",
-  code: [JavaScript, HTML, CSS, C, Python, Git, SQL, Shell, Linux, RHEL, Oracle-DBA, Terminal],
+  code: [JavaScript, "HTML", CSS, C, "Python", SQL, Linux, Oracle-DBA],
     letsTalkAbout: ["Web Dev", Tech, "Machine learning", Software Development, "Cybersec", Graphic Design, "Linux"],
-     technologies: {
+     technologies: { [Git, "RHEL", Terminal, "Shell", Linux]
         frontEnd: {
             js: [React, "jQuery", Nodejs],
             css: ["CSS3", Bootstrap]
