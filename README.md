@@ -16,7 +16,7 @@ Hellooo! My fellow < Devs/ >!
 - 👯 I’m looking to collaborate with other learners and creatives
 - 🥅 2022 Goals: Learn more Python, Machine Learning, more about Data Science and Cloud Computing
 - 👨🏻‍💻 I repair both software and hardware PC problems
-- 💬 I'm a mental health activist certified bt the [AACC](https://www.aacc.net/about/)
+- 💬 I'm a mental health activist certified by the [AACC](https://www.aacc.net/about/)
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport! I also read a lot 🧐
 <!-- - 📫 I'm also on [LinkedIn](https://www.linkedin.com/in/david-olago-973200125/) -->
 
