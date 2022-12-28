@@ -14,11 +14,11 @@ Hellooo! My fellow < Devs/ >!
 <!-- - 🔭 Check out my Podcast and [Discover Your Power!][Podcast] -->
 - 🌱 I’m currently learning new skills as I refresh my programming abilities
 - 👯 I’m looking to collaborate with other learners and creatives
-- 🥅 2022 Goals: Learn more Python, Machine Learning, more about Data Science and Cloud Computing
+- 🥅 2023 Goals: Get a software Engineering job, Learn more Python, JavaScript, Machine Learning, more about Data Science and Cloud Computing
 - 👨🏻‍💻 I repair both software and hardware PC problems
 - 💬 I'm a mental health activist certified by the [AACC](https://www.aacc.net/about/)
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport! I also read a lot 🧐
-<!-- - 📫 I'm also on [LinkedIn](https://www.linkedin.com/in/david-olago-973200125/) -->
+- 📫 I'm also on [LinkedIn](https://www.linkedin.com/in/david-olago-973200125/)
 
 
  
@@ -139,7 +139,7 @@ Show some ❤️ by dropping a ⭐ to some of the repositories!
 [website]: https://davidj001.github.io
 [podcast]: http://spotify.com
 [twitter]: https://twitter.com/
-<!-- [youtube]: https://youtube.com/channel/UCmfhg0x9C5kFCZG7tCi473A -->
+
 [instagram]: https://instagram.com/lord_davidj
 [linkedin]: https://linkedin.com/in/david-olago-973200125/
 
