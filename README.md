@@ -64,21 +64,6 @@ const KingDavid = {
       Education: "Software engineering certification at the ALX-Holberton Schools."
 }
 ```
-
-<!--   <div id="badges" align="center">
-  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/david-olago-973200125/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Significant_Joe">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="https://www.facebook.com/david.megabillion?_rdc=1&_rdr">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/> 
-      
-
-</div> 
-</div> -->
  
  <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -98,7 +83,7 @@ const KingDavid = {
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=DavidJ001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
 </p>
 
 <br />
