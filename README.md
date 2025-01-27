@@ -1,5 +1,5 @@
 ![gitartwork](gitartwork.svg)
-<!--<img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />-->
+<img align="left" height="200" width="320" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <h1 align="center">
 Hellooo! My fellow < Devs/ >!  
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
