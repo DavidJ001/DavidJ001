@@ -100,48 +100,23 @@ const KingDavid = {
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=DavidJ001&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-<!-- <h2 align="center">
- Stats
- </h2>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=DavidJ001&show_icons=true&theme=radical" /> 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJ001&layout=compact" />  -->
- 
-<!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DavidJ001&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  -->
-
 
 <br />
 <br />
  
-<!--  ### :hammer_and_wrench: Languages and Tools :
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git Image" width="40" height="40"/>&nbsp; -->
- 
- 
- 
-<!--  <h2 align="center">📈 Activity</h2>
-<a href="https://github.com/DavidJ001/github-readme-activity-graph"> <img align="center" src="https://activity-graph.herokuapp.com/graph?username=DavidJ001&theme=material-palenight" /> </a>
-<br /> -->
-<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&cover_image=true&theme=novatorem&bar_color=4e51b1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=olagodavid&redirect=true) -->
+
 
 <h3 align="center">
 Show some ❤️ by dropping a ⭐ to some of the repositories!
 </h3>
 </div>
-<!--  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 
 
-[website]: https://davidj001.github.io
-[podcast]: http://spotify.com
-[twitter]: https://twitter.com/
 
-[instagram]: https://instagram.com/lord_davidj
-[linkedin]: https://linkedin.com/in/david-olago-973200125/
+
+
 
 <p align="right" > Made with 🖤 by <a href="https://github.com/DavidJ001">DavidJ001</a></p>
 <p align="right" > <img src="https://komarev.com/ghpvc/?username=DavidJ001&label=Profile%20views&color=0e75b6&style=flat" alt="DavidJ001" /> </p>
