@@ -14,7 +14,7 @@ Hellooo! My fellow < Devs/ >!
 
 - 🌱 I’m currently learning new skills as I refresh my programming abilities
 - 👯 I’m looking to collaborate with other learners and creatives
-- 🥅 2025 Goals: Build an AI Tech Startup, Learn more Python, JavaScript, Machine Learning, more about Data Science and Cloud Computing
+- 🥅 2026 Goals: Build an AI Tech Startup, Learn more Python, JavaScript, Machine Learning, more about Data Science and Cloud Computing
 - 👨🏻‍💻 I repair both software and hardware PC problems
 - 💬 I'm a mental health activist certified by the [AACC](https://www.aacc.net/about/)
 - ⚡ Fun fact: I love to draw and swimming is my favorite sport! I also read a lot 🧐
