@@ -12,9 +12,11 @@ Hellooo! My fellow < Devs/ >!
 </p>
 
 
-- 🏗️ Currently building **KAINOS Token** — a BEP-20 decentralised protocol on BNB Smart Chain
-- 🧾 Also building a custom **POS & business management platform** for a hospitality client in Kenya (M-Pesa + KRA eTIMS integrated)
+- ⭐ **Favourite Projects This Year:**
+  - 🪙 **KAINOS Token** — A BEP-20 decentralised protocol built on BNB Smart Chain
+  - 🧾 **Jabali Lodge Platform** — Custom all-in-one POS & business management system with M-Pesa + KRA eTIMS integration
 - 🧠 Founder of **Ascension Innovation** — *Driven by Purpose, Powered by Innovation*
+- 🤖 Currently exploring **Machine Learning**, **AI Automation** and **Cybersecurity**
 - 💬 I'm a mental health activist certified by the [AACC](https://www.aacc.net/about/)
 - 🎨 I love to draw — 🏊 swimming is my favourite sport — 📚 and I read a lot
 - 👨🏻‍💻 I also diagnose and repair both software and hardware PC problems
@@ -40,26 +42,44 @@ const David = {
   company: "Ascension Innovation",
   location: "Nairobi, Kenya",
   stack: {
-    frontend: ["React", "Vite", "Framer Motion", "HTML5", "CSS3", "TypeScript"],
-    backend: ["Python", "Flask", "Node.js", "Firebase"],
+    frontend:   ["React", "Vite", "Framer Motion", "HTML5", "CSS3", "TypeScript"],
+    backend:    ["Python", "Flask", "Node.js", "Firebase"],
     blockchain: ["Solidity", "BNB Smart Chain", "BEP-20"],
-    databases: ["Firestore", "MySQL", "MongoDB", "SQLite"],
-    tools: ["Git", "Linux", "Figma", "Adobe Creative Suite"],
+    databases:  ["Firestore", "MySQL", "MongoDB", "SQLite"],
+    ML_AI:      ["TensorFlow", "PyTorch", "OpenCV", "Pandas", "Scikit-learn"],
+    security:   ["Kali Linux", "Wireshark", "Nmap", "Metasploit"],
+    tools:      ["Git", "Linux", "Figma", "Adobe Creative Suite"],
   },
-  currentlyBuilding: ["KAINOS Token", "Jabali Lodge POS Platform"],
-  certifications: ["ALX-Holberton Software Engineering", "AACC Mental Health"],
-  offScreen: ["Drawing", "Swimming", "Reading"],
+  favouriteProjects: ["KAINOS Token", "Jabali Lodge POS Platform"],
+  certifications:    ["ALX-Holberton Software Engineering", "AACC Mental Health"],
+  offScreen:         ["Drawing", "Swimming", "Reading"],
   motto: "Built for the Unprecedented.",
 };
 ```
 
 ### 🛠️ Tech Stack
 
+**Frontend & Blockchain**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css&perline=6" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,solidity,firebase,git,linux,figma&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,html,css,solidity,firebase&perline=8" />
 </p>
+
+**ML, AI & Cybersecurity**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux,kali,git,figma&perline=8" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidJ001/DavidJ001/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidJ001/DavidJ001/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DavidJ001/DavidJ001/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
