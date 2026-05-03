@@ -86,16 +86,16 @@ const David = {
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=DavidJ001&theme=react&border=61dafb&hide_border=true" alt="DavidJ001 streak stats" />
+      <img align="left" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=DavidJ001&theme=react&border=61dafb&hide_border=true" alt="DavidJ001 streak stats" />
     </a>
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidJ001" title="Go to Source">
-      <img align="right" width=390 src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidJ001" alt="DavidJ001 profile stats" />
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidJ001&theme=dark" title="Go to Source">
+      <img align="right" width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DavidJ001&theme=dark" alt="DavidJ001 profile stats" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidJ001">
-      <img width=325 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidJ001" alt="DavidJ001 top languages" />
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidJ001&theme=dark">
+      <img width="325" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidJ001&theme=dark" alt="DavidJ001 top languages" />
     </a>
   </div>
   <br>
